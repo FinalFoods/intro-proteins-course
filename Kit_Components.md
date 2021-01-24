@@ -11,7 +11,7 @@
 |G-09                               |DTT          |1.7ml|20ul     |-20C   |
 |G-10                               |Sarkosyl     |1.7ml|500ul    |4C     |
 |G-11                               |Triton X-100 |1.7ml|500ul    |4C     |
-|G-12                               |Nickle Agarose Beads |1.7ml|100ul    |4C     |
+|G-12                               |Nickel Agarose Beads |1.7ml|100ul    |4C     |
 |G-13                               |PBS          |5ml  |5ml      |4C     |
 |G-14                               |20mM Imidazole|15ml brown|5ml      |4C     |
 |G-15                               |100mM Imidazole|15ml brown|10ml     |4C     |
