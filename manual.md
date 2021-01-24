@@ -3,7 +3,7 @@
 
 ### Upstream Process
 
-1. With two pieces of tape attach a piece of filter paper to the top of the baffled shake flask. Autoclave at 121C for 15 minutes - [an instant pot can also be used instead of an autoclave.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208769) 
+1. With two pieces of tape attach a piece of filter paper to the top of the baffled shake flask. Autoclave at 121C for 15 minutes.
 2. Open the GFP Ecoli Stab vial, and press the innoculation loop into the stab in the agar.
 2. Slide the innoculation loop over the agar plate to sreak the ecoli onto the plate. Incubate the plate with the agar facing toward the table. Let the ecoli grow at room temperature overnight.
 3. Pick some ecoli from the plate and place it into the preculture tube. Incubate the preculture tube with shaking at 37C overnight.
@@ -37,3 +37,8 @@
 16. Wash the beads 8 times with 1ml of ice cold PBS with high concentration of imidazole (100mM). Keep the fractions in 1.7ml tubes, because they contain the purified GFP.  
 17. Pipette the fractions into a 30,000 kda centrifugational filter unit. Centrifuge for 30 minutes at 1000g. 
 18. Pipette the concentrated GFP into a new 1.7ml tube. You now have pure GFP! 
+
+
+<!---
+ - [an instant pot can also be used instead of an autoclave.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208769) 
+--->
