@@ -38,7 +38,7 @@
 16. Wash the beads 8 times with 1ml of ice cold PBS with high concentration of 100mM imidazole #G-15. Keep the fractions in 1.7ml tubes, because they contain the purified GFP.  
 17. Pipette the fractions into a 30,000 kda centrifugational filter unit. Centrifuge for 30 minutes at 1000g. 
 18. Pipette the concentrated GFP into a new 1.7ml tube. You now have pure GFP! 
-19. 
+
 
 <!---
 [an instant pot can also be used instead of an autoclave.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208769) 
