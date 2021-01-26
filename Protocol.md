@@ -43,6 +43,6 @@
 18. **Centrifuge** the mix for 20 seconds.***
 19. **Transfer** the liquid into an empty 1.7ml tube. These tubes contain purified GFP.
 19. **Repeat** steps 17 through 19 eight times.
-17. **Transfer** each GFP fraction in the tubes into the 30,000 kda centrifugational filter unit (#G-16). 
+17. **Transfer** each GFP fraction in the tubes into the 30,000 kDa centrifugal filter unit (#G-16). 
 18. **Centrifuge** the filter for 30 minutes at 1000G.
 18. **Transfer** the concentrated GFP into a new 1.7ml tube. You now have pure GFP! 
