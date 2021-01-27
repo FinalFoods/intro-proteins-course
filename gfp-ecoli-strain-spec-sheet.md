@@ -2,7 +2,7 @@
 
 ## Plasmid Map
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](intro-proteins-course/gfp-plasmid.png?raw=true "GFP Strain Plasmid Map")
 
 ## Plasmid sequence
 
