@@ -12,7 +12,7 @@ These stock solutions can be purchased from Final Foods in our GFP extraction Ki
 - 10mg/ml in 50% glycerol
 
 ### DTT
-- 1M Stock solution
+- 1M stock solution
 
 ### Sarkosyl
 - 10% (w/v)
@@ -20,6 +20,9 @@ These stock solutions can be purchased from Final Foods in our GFP extraction Ki
 
 ### Triton X-100
 - 10% solution in STE Buffer
+
+### IPTG
+- 1M stock solution
 
 ### Imidazole 20mM
 - Add 20ul of 5M imidazole to 5ml of PBS.
