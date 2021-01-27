@@ -26,3 +26,5 @@ These stock solutions can be purchased from Final Foods in our GFP extraction Ki
 
 ### Imidazole 100mM
 - Add 100ul of 5M imidazole to 5ml of PBS
+
+
