@@ -14,4 +14,4 @@
 | Strain Specifications | [strain-spec-sheet.md](./strain-spec-sheet.md) |
 
 ### Purchase
-The recombinant E.coli Kit is available for purchase on our [online shop](https://finalfoods.com/products/recombinant-e-coli-gfp-production).
+The recombinant E.coli Kit is available for purchase from our [online shop](https://finalfoods.com/products/recombinant-e-coli-gfp-production).
