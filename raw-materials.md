@@ -18,3 +18,35 @@
 |Micro Centrifuge Tube 2ml                              |0.63 |100   |Aliexpress        |            |https://www.aliexpress.com/item/10000246087800.html?spm=a2g0o.productlist.0.0.d1394e4fQXEAA3&algo_pvid=e646add8-027a-4595-80df-44a894841365&algo_expid=e646add8-027a-4595-80df-44a894841365-21&btsid=0bb0622d16104047422502248ea274&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_  |
 |50ml Conical Tube                                      |0.73 |10    |Aliexpress        |            |https://www.aliexpress.com/item/1005001609825314.html?spm=a2g0o.productlist.0.0.ee334424rPOGyx&algo_pvid=a11d21d2-ae89-4c79-b11e-32fedf250a07&algo_expid=a11d21d2-ae89-4c79-b11e-32fedf250a07-23&btsid=0b0a556116104049337172277eb0b3&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_|
 |10Kda 50ml protien concentrator centrifugational Filter|223  |24    |Alibaba           |            |https://www.alibaba.com/product-detail/5kda-10kda-30KDA-PES-15ml-50ml_62313221233.html?spm=a2700.galleryofferlist.normal_offer.d_title.d02270cf8pgJMW                                                                                                                                          |
+# Stock Solutions
+
+These stock solutions can be purchased from Final Foods in our GFP extraction Kit. 
+
+### STE Buffer
+- 150mm NaCl
+- 10mM Tris
+- 1mM EDTA
+- PH 8.0
+
+### Lysozyme
+- 10mg/ml in 50% glycerol
+
+### DTT
+- 1M stock solution
+
+### Sarkosyl
+- 10% (w/v)
+- Dissolved in STE buffer
+
+### Triton X-100
+- 10% solution in STE Buffer
+
+### IPTG
+- 1M stock solution
+
+### Imidazole 20mM
+- Add 20ul of 5M imidazole to 5ml of PBS.
+
+### Imidazole 100mM
+- Add 100ul of 5M imidazole to 5ml of PBS
+
