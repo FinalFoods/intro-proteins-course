@@ -1,5 +1,5 @@
-# Equipment
-### Kit for Recombinant E.coli GFP Production
+# List of Equipment
+### Needed for the Kit for Recombinant E.coli GFP Production
 
 Name | Description | Photo
 -------------- | ----------- | ----------
@@ -15,4 +15,4 @@ Micro Centrifuge | Eppendorf - Centrifuge 5415 D | ![](/images/equipment/MicroCe
 Mini Centrifuge | N/A | ![](/images/equipment/TapFuge.jpg)
 Orbital Shaker  | N/A | ![](/images/equipment/OrbitalShaker.jpg)
 
-If you are missing a piece of equipment email me for suggestions for workarounds. julian@finalfoods.com
+If you are missing a piece of equipment email us for suggestions and workarounds. julian@finalfoods.com
