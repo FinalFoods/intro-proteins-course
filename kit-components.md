@@ -1,3 +1,6 @@
+# List of Components
+### Kit for Recombinant E.coli GFP Production
+
 |Part #                             |Kit Component|Tube |Volume   |Storage|
 |-----------------------------------|-------------|-----|---------|-------|
 |G-01                               |Innoculation Loop|bag  |20pc     |Room Temp|
