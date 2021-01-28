@@ -4,7 +4,7 @@
 
 ### Plasmid Map
 
-![GFP Strain Plasmid Map](gfp-plasmid.png?raw=true "GFP Strain Plasmid Map")
+![GFP Strain Plasmid Map](./images/gfp-plasmid.png?raw=true "GFP Strain Plasmid Map")
 
 ### Plasmid sequence
 
