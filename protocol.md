@@ -29,7 +29,6 @@
 6. **Incubate** the cell lysate on ice for 15 minutes.
 7. **Add** 4ul of DTT (#G-09) to the cell lysate.
 8. **Add** 135ul of Sarkosyl (#G-10) to the cell lysate
-9. **Place** the cell lysate on ice in a ultrasonic homogenizer set to 50% power, 25% pulses for 12 minutes.
 10. **Centrifuge** the cell lysate for 20 minutes at 3000G.
 11. **Transfer** the cell lysate supernatant into a new tube. 
 12. **Add** 200ul of Triton X-100 (#G-11).
