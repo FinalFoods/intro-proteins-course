@@ -10,7 +10,6 @@ Vortex Mixer | VWR - Fixed Speed Mini Vortexer | ![](/images/equipment/VortexMix
 Scale | Mettler Toledo - PB3001 | ![](/images/equipment/Scale.jpg)
 Blue Light Illuminator | Hand made | ![](/images/equipment/BlueLight.jpg)
 Spectrophotometer | DeNovix - DS 11+ | ![](/images/equipment/DeNovixSpectrophotometer.jpg)
-Ultrasonic Homogenizer | Omni International .inc - Ommni-Ruptor 250 | ![](/images/equipment/Ultrasonic.jpg)
 Micro Centrifuge | Eppendorf - Centrifuge 5415 D | ![](/images/equipment/MicroCentrifuge.jpg)
 Mini Centrifuge | N/A | ![](/images/equipment/TapFuge.jpg)
 Orbital Shaker  | N/A | ![](/images/equipment/OrbitalShaker.jpg)
