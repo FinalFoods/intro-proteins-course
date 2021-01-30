@@ -26,7 +26,7 @@
 3. **Discard** the supernatant (The liquid on top of the cell pellet).
 4. **Wash** the pellet with 2ml of ice cold STE buffer (#G-07).
 5. **Resuspend** the pellet in 800ul of STE buffer (#G-07) with 8ul of Lysozyme (#G-08) to obtain a cell lysate.
-6. **Incubate** the cell lysate on ice for 2 hours minutes.
+6. **Incubate** the cell lysate on ice for 2 hours.
 7. **Add** 4ul of DTT (#G-09) to the cell lysate.
 8. **Add** 135ul of Sarkosyl (#G-10) to the cell lysate
 10. **Centrifuge** the cell lysate for 20 minutes at 3000G.
