@@ -18,4 +18,4 @@
 |G-13                               |PBS          |5ml  |5ml      |4C     |
 |G-14                               |20mM Imidazole|15ml brown|5ml      |4C     |
 |G-15                               |100mM Imidazole|15ml brown|10ml     |4C     |
-|G-16                               |30,000 kDa Centrifugal Filter Unit|50ml|15ml     |Room Temp     |
+|G-16                               |10,000 kDa Centrifugal Filter Unit|50ml|15ml     |Room Temp     |
